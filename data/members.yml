@@ -1,0 +1,9 @@
+- member: "seb"
+  role: "CTO"
+  avatar: seb.jpg
+- member: "anne"
+  role: "CEO"
+  avatar: anne.jpg
+- member: "romain"
+  role: "COO"
+  avatar: romain.jpeg

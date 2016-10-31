@@ -1,0 +1,17 @@
+- background_image: card-paris.jpg
+  city: "Paris"
+  owner: "Seb"
+  description: "Charming room with patio"
+  avatar: seb.jpg
+- background_image: card-brussels.jpeg
+  city: "Brussels"
+  owner: "Anne"
+  description: "Lovely house"
+  avatar: anne.jpg
+- background_image: card-london.jpeg
+  city: "London"
+  owner: "Romain"
+  description: "Nice flat"
+  avatar: romain.jpeg
+
+

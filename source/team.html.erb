@@ -1,0 +1,16 @@
+<div class="team">
+  <div class="container text-center padded">
+      <h1>Our team</h1>
+          <ul class="list-inline text-center padded">
+            <% data.members.each do |member| %>
+              <li> <%= image_tag member.avatar, class: "img-circle avatar-large" %>
+                  <h3><%= member.member.capitalize %></h3>
+              </li>
+            <% end %>
+        </ul>
+       <h3>
+         <%= mail_to 'fake@faker.com', "contact@airbnb.com", :cc => "test@demo.com" %>
+       </h3>
+  </div>
+</div>
+
